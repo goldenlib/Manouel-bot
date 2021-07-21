@@ -6,7 +6,7 @@
 
 ## Autres liens:
 
-[Vidéo](https://youtu.be/JcuI0uzyMHc)
-[Test](https://twitter.com/libde2020/status/1413111671518867457)
-[M.Valls](https://twitter.com/manuelvalls)
-[Bot](https://github.com/goldenlib/Manouel-bot)
+- [Vidéo](https://youtu.be/JcuI0uzyMHc)
+- [Test](https://twitter.com/libde2020/status/1413111671518867457)
+- [M.Valls](https://twitter.com/manuelvalls)
+- [Bot](https://github.com/goldenlib/Manouel-bot)
